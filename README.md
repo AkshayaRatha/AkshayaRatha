@@ -96,6 +96,8 @@ A web-based college student portal developed to improve access to academic and e
 - User-friendly interface
 - Improved communication and information sharing
 
+  🔗 **Repository:** [college-student-portal](https://github.com/AkshayaRatha/college-student-portal)
+
 ---
 
 ### 🌦️ Weather Management System
