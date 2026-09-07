@@ -182,15 +182,10 @@ During my Full Stack Development internship, I gained practical exposure to:
 ## 📊 GitHub Activity
 
 <p align="center">
- ## 📊 GitHub Activity
-
-<p align="center">
   <a href="https://github.com/AkshayaRatha">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkshayaRatha&show_icons=true" width="48%" />
+    <img src="https://ghstats.dev/api/card?username=AkshayaRatha" alt="Akshaya's GitHub Stats">
   </a>
 </p>
-</p>
-
 ---
 
 ## 🧠 Currently Improving
