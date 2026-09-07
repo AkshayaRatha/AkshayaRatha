@@ -181,13 +181,12 @@ During my Full Stack Development internship, I gained practical exposure to:
 
 ## 📊 GitHub Activity
 
-<div align="center">
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshayaRatha&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Akshaya's GitHub stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaRatha&layout=compact&hide_border=true" height="165" alt="Akshaya's top languages">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayaRatha&show_icons=true&theme=tokyonight" alt="Akshaya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaRatha&layout=compact&theme=tokyonight" alt="Akshaya's top languages" />
+</p>
 
 ---
 
