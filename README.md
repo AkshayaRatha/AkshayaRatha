@@ -186,7 +186,7 @@ During my Full Stack Development internship, I gained practical exposure to:
     <img src="https://ghstats.dev/api/card?username=AkshayaRatha" alt="Akshaya's GitHub Stats">
   </a>
 </p>
----
+
 
 ## 🧠 Currently Improving
 
