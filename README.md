@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Akshaya A
 
-### 🎓 B.E. Computer Science & Engineering Student | 💻 Java Developer | 🌐 Full Stack Enthusiast | 🤖 ML/DL Learner
+### 🎓 B.E. Computer Science & Engineering Student | 💻 Java Developer | 🌐 Full Stack Enthusiast 
 
 <p>
   <a href="https://github.com/AkshayaRatha">
